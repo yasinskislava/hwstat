@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hwstat/static/css/main.99764434.css",
+    "main.js": "/hwstat/static/js/main.f5ebad9d.js",
+    "index.html": "/hwstat/index.html",
+    "main.99764434.css.map": "/hwstat/static/css/main.99764434.css.map",
+    "main.f5ebad9d.js.map": "/hwstat/static/js/main.f5ebad9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99764434.css",
+    "static/js/main.f5ebad9d.js"
+  ]
+}
